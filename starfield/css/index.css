@@ -1,0 +1,19 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.starfield {
+  z-index: -1;
+}
+
+#logo {
+  position: absolute;
+  left:0;
+  right: 0;
+  margin:auto;
+  width: 100px;
+}
