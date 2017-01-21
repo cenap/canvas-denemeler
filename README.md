@@ -4,4 +4,4 @@ Bu repository'de HTML5 canvas, SVG, webgl üzerinde yaptığım denemeler yer al
 Windows ortamında örnekleri denemek isterseniz basit bir web sunucusu olan mongoose-free-6.5.exe dosyasını çalıştırarak bakabilirsiniz.
 Lokal olarak çalıştırılırsa bazı hatalar verebilir.
 
-[Canlı Demo](https://rawgit.com/cenap/canvas-denemeler/index.html)
+[Canlı Demo](https://rawgit.com/cenap/canvas-denemeler/master/index.html)
